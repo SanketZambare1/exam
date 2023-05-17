@@ -1,0 +1,36 @@
+Functional Requirments for online Project management
+1. Employee Registration 
+	The portal must have employee registration window including fields for name, email address, and password.
+	The portal must validate the email and other details.
+	The portal must store the user data and information securly.
+
+
+2. Employee Authentication 
+ The portal must  have a login form where registered users can enter their email and password.
+ The portal must authenticate user credentials before granting access.
+ The portal must provide a forget password recovery/reset functionality.
+
+3. Project Creation 
+ The portal must have allow to create new projects, allowing users to enter a project name, description, start date, and end date.
+ The portal must assign a UniqueID to each project created.
+ The portal must associate each project with a project owner.
+ 
+
+4. Task Creation 
+ The portal must allow users to create tasks within projects, fields for a task title, description, start date, end date, and priority.
+ The portal must associate each task with a project.
+
+5. File Upload 
+ The portal must allow users to upload files and associate them with projects or tasks.
+ The portal must securely save files and must allow to easily grant access  to project members.
+ The portal must support all file types.
+
+6. Team Communication 
+ The portal must have chat and comments to communicate  with other project members.
+ The portal mustl have notifications for communication between team members.
+ The portal must allow to tag users or notify specific team members in conversations.
+
+
+
+
+

@@ -1,0 +1,29 @@
+Business Entity 
+
+
+
+USER
+email address
+password
+phone number 
+name
+
+LOGIN
+email_id
+password
+
+PROJECTS
+pname
+project status
+duration
+leadername
+manager name
+
+
+
+TASK
+taskname
+task duration
+task assigned to
+task status
+
